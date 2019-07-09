@@ -24,7 +24,7 @@ public class rough {
 		 }
 		 System.out.println(s);
 		 System.out.println(s);
-		 System.out.println();
+		 System.out.println(s);
 		 
 	  }
 	
